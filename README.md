@@ -11,7 +11,7 @@
 * [Author](#-author)
 
 ## 🎯 Introduction
-The *Amnesia Instrumental Cover Project* is a digital cover created using TunePad. The original project was a pure music song [Amnesia](http://163cn.tv/yM1rAaQ ). This project presents a structured, one-minute instrumental version of the song *Amnesia*, showcasing separate code blocks for bass, drums, keys, and guitar. Each instrument has its own code, allowing users to experience a layered musical arrangement with a clear beginning, middle, and end.
+The *Amnesia Instrumental Cover Project* is a digital cover created using TunePad. The original project was a music song [Amnesia](https://open.spotify.com/track/6C75L2so9Pp8dtO1TAEeRR ). This project presents a structured, one-minute instrumental version of the song *Amnesia*, showcasing separate code blocks for bass, drums, keys, and guitar. Each instrument has its own code, allowing users to experience a layered musical arrangement with a clear beginning, middle, and end.
 
 ## 🛠 Technologies
 This project utilizes:
